@@ -1,0 +1,7 @@
+.mainContainer{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: left;
+    flex-direction: column;
+    margin:4rem 0 0 6rem;
+}

@@ -1,0 +1,10 @@
+/* NewTodo */
+.newTodo {
+    height: 2rem;
+    width: 80%;
+  }
+  
+  .input_field {
+    height: 100%;
+    width: 100%;
+  }

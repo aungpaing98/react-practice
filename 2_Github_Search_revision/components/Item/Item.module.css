@@ -1,0 +1,8 @@
+.user {
+  height: 300px;
+  width: 300px;
+}
+
+.user > p {
+  font-size: larger;
+}

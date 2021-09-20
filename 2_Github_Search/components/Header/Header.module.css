@@ -1,0 +1,21 @@
+/* Input field */
+.input_field {
+  height: 3rem;
+  width: 30rem;
+  margin-bottom: 0.8rem;
+}
+
+.input_field > input {
+  width: 20rem;
+  height: 60%;
+  margin-right: 3rem;
+}
+
+.input_field > button {
+  height: 70%;
+  width: 4rem;
+  border-radius: 0.4rem;
+  border: 0px;
+  background-color: black;
+  color: white;
+}

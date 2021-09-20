@@ -1,0 +1,9 @@
+/* Todo Lists */
+.lists {
+  width: 100%;
+  padding : 2rem 0;
+}
+
+ul {
+  list-style: none;
+}
