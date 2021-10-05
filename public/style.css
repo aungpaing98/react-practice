@@ -1,7 +1,8 @@
 body{
     /* color: rgb(245, 232, 103); */
-    background-color: rgb(160, 143, 213);
+    /* background-color: rgb(160, 143, 213) !important; */
     font-family:'Roboto', sans-serif;
+    width:100%;
 }
 
 

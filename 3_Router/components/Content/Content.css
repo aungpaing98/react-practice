@@ -1,0 +1,38 @@
+.content{
+    display:flex;
+    width:60%;
+    justify-content: space-between;
+    align-items: left;
+}
+
+.navlinks{
+    display:flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    width:15rem;
+}
+
+.navlinks > * {
+    padding:2rem 3rem 2rem 2rem;
+    border-radius: 10px;
+    font-size:1.6rem;
+    text-decoration: none;
+    color:black;
+}
+
+.active{
+    background-color: deepskyblue !important;
+}
+
+.page{
+    font-size: 2rem;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.page > * {
+    margin-bottom: 5rem;
+}
